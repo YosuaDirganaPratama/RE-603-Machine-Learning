@@ -1,0 +1,5 @@
+PT Besli Manufacturing, mengalami beberapa insiden kecelakaan kerja dalam beberapa tahun terakhir. Untuk mencegah kecelakaan lebih lanjut dan menjaga keselamatan karyawan, tim HR dan keselamatan Besli ingin mengembangkan sistem prediktif berbasis data historis.
+
+Dengan menggunakan data karyawan yang mencakup usia, jenis kelamin, pendidikan, pengalaman kerja, dan catatan insiden, perusahaan ingin memprediksi apakah seorang karyawan berisiko mengalami kecelakaan kerja. 
+
+Bantulah Besli untuk mencegah kecelakaan yang berkelanjutan dengan menggunakan dataset_kecelakaan.csv yang sudah disediakan Besli. 
